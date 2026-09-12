@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="tab_tracks">Songs</string>
+    <string name="tab_playlists">Playlists</string>
+    <string name="tab_sound">Equalizer</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="queue">Queue</string>
+</resources>

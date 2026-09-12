@@ -1,0 +1,6 @@
+{
+  "name": "Music",
+  "description": "A sleek, immersive music player featuring rich audio synthesis, curated soundscapes, playlist management, audio visualizer, and custom sound equalizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
